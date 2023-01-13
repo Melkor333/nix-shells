@@ -5,5 +5,5 @@ usage:
 ```
 cd THIS-FOLDER
 nix-shell
-./activate.sh
+. ./activate.sh
 ```
