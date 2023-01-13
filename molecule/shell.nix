@@ -6,5 +6,5 @@
     python39Packages.pip
     python39Packages.virtualenv
   ]);
-  runScript = "bash";
+  runScript = "bash --init-file './activate.sh' -i";
 }).env
